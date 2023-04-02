@@ -132,7 +132,7 @@ const projects = [
       },
     ],
     image: collector,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/MaYaNkKashyap681/Collector-Video-App",
     videolink:
       "https://drive.google.com/file/d/13hn8N9WN7eGRghsno-CA3Apo8ShUhZXH/view?usp=share_link",
   },
