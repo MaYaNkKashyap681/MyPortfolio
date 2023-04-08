@@ -29,6 +29,7 @@ import {
   cpp,
   githubfinder,
   collector,
+  carparking,
 } from "../assets";
 
 export const navLinks = [
@@ -182,6 +183,30 @@ const projects = [
       "https://github.com/MaYaNkKashyap681/Github-Profile-Finder",
     videolink:
       "https://drive.google.com/file/d/1vc1tjWwx2h78a4uaSw2TCNZM8ylZxJtl/view?usp=share_link",
+  },
+  {
+    name: "Image Based Car Parking",
+    description:
+      "A Web App where user can book the parking lot from image, and check availability",
+    tags: [
+      {
+        name: "React.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "express",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carparking,
+    source_code_link:
+      "https://github.com/MaYaNkKashyap681/ImageCarParkingSystem",
+    videolink:
+      "https://drive.google.com/file/d/1LQ9y_WqccUr6oeahG_6m4I8BYzqswjwV/view?usp=share_link",
   },
 ];
 

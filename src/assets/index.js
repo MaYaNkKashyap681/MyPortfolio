@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 import githubfinder from "./gihtubfinder.png";
 import aiimage from "./aiimage.png";
 import collector from "./collector.png";
+import carparking from "./carparking.png";
 
 export {
   logo,
@@ -63,6 +64,7 @@ export {
   aiimage,
   meta,
   shopify,
+  carparking,
   starbucks,
   linkedin,
   tesla,
