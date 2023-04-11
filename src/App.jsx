@@ -21,7 +21,7 @@ const App = () => {
           <Hero />
         </div>
         <a
-          href="https://drive.google.com/file/d/1vLMBWhoKchG5RtHX1sl-DD2sl3d9yuc3/view?usp=sharing"
+          href="https://drive.google.com/file/d/1E3klhxjyNhY47EhXI5fvrL-ZjmaMddMh/view?usp=sharing"
           target="_blank"
           className="font-bold"
         >
