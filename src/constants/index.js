@@ -30,6 +30,7 @@ import {
   githubfinder,
   collector,
   carparking,
+  todo,
 } from "../assets";
 
 export const navLinks = [
@@ -207,6 +208,30 @@ const projects = [
       "https://github.com/MaYaNkKashyap681/ImageCarParkingSystem",
     videolink:
       "https://drive.google.com/file/d/1LQ9y_WqccUr6oeahG_6m4I8BYzqswjwV/view?usp=share_link",
+  },
+  {
+    name: "3D Todo Application",
+    description:
+      "A Todo Application using three.js, you can perform CRUD opertations and store your daily tasks",
+    tags: [
+      {
+        name: "React.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "three.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "express",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todo,
+    source_code_link:
+      "https://github.com/MaYaNkKashyap681/Mini-Three.js-Application",
+    videolink:
+      "https://drive.google.com/file/d/1WY5wNezaAIeqZl3bXLSCf1WlNyaxLj0m/view?usp=sharing",
   },
 ];
 

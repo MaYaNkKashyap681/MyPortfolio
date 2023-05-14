@@ -38,6 +38,7 @@ import githubfinder from "./gihtubfinder.png";
 import aiimage from "./aiimage.png";
 import collector from "./collector.png";
 import carparking from "./carparking.png";
+import todo from './3dtodo.png';
 
 export {
   logo,
@@ -77,4 +78,5 @@ export {
   dart,
   cpp,
   githubfinder,
+  todo
 };
