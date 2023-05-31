@@ -31,6 +31,7 @@ import {
   collector,
   carparking,
   todo,
+  codeeditor,
 } from "../assets";
 
 export const navLinks = [
@@ -233,6 +234,32 @@ const projects = [
     videolink:
       "https://drive.google.com/file/d/1WY5wNezaAIeqZl3bXLSCf1WlNyaxLj0m/view?usp=sharing",
   },
+  {
+    name: "Codecollab",
+    description:
+      "A Realtime code editor build using Socket.io, with multiple themes and languages options",
+    tags: [
+      {
+        name: "React.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwindcss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Socket.io",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: codeeditor,
+    source_code_link:
+      "git@github.com:MaYaNkKashyap681/CodeCollab-Realtime-Editor.git",
+    videolink:
+      "",
+  },
 ];
 
+
+/*  */
 export { services, technologies, projects };

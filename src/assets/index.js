@@ -39,6 +39,7 @@ import aiimage from "./aiimage.png";
 import collector from "./collector.png";
 import carparking from "./carparking.png";
 import todo from './3dtodo.png';
+import codeeditor from './codeeditor.png';
 
 export {
   logo,
@@ -78,5 +79,6 @@ export {
   dart,
   cpp,
   githubfinder,
-  todo
+  todo,
+  codeeditor
 };
