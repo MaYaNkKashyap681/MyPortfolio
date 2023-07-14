@@ -22,7 +22,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} text-white`}>
             I am a Full Stack Web Developer <br className="sm:block hidden" />{" "}
-            and Flutter Android Developer
+            and Mobile App Developer
           </p>
         </div>
       </div>
